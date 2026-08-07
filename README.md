@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/RajBhokare/DSA-Solving/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/RajBhokare/DSA-Solving/tree/master/0342-power-of-four) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajBhokare/DSA-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
 ## Number Theory
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/RajBhokare/DSA-Solving/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/RajBhokare/DSA-Solving/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
