@@ -1,8 +1,9 @@
 class Solution {
 public:
     string convertToBase7(int num) {
-        if (num == 0) return "0";
-
+        if (num == 0) {
+            return "0";
+        }
         bool neg = num < 0;
         long long n = abs((long long)num);
         string s;
