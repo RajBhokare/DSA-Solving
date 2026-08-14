@@ -38,6 +38,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RajBhokare/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/RajBhokare/DSA-Solving/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/RajBhokare/DSA-Solving/tree/master/0504-base-7) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/RajBhokare/DSA-Solving/tree/master/0342-power-of-four) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
