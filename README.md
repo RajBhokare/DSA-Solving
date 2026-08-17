@@ -42,6 +42,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RajBhokare/DSA-Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/RajBhokare/DSA-Solving/tree/master/0504-base-7) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3794-reverse-string-prefix](https://github.com/RajBhokare/DSA-Solving/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RajBhokare/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/RajBhokare/DSA-Solving/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/RajBhokare/DSA-Solving/tree/master/0392-is-subsequence) |
+| [3794-reverse-string-prefix](https://github.com/RajBhokare/DSA-Solving/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
 | ------- |
