@@ -46,6 +46,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RajBhokare/DSA-Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/RajBhokare/DSA-Solving/tree/master/0504-base-7) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3110-score-of-a-string](https://github.com/RajBhokare/DSA-Solving/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/RajBhokare/DSA-Solving/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
