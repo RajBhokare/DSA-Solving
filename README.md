@@ -9,6 +9,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RajBhokare/DSA-Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/RajBhokare/DSA-Solving/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/RajBhokare/DSA-Solving/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajBhokare/DSA-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
 ## Number Theory
@@ -23,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajBhokare/DSA-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajBhokare/DSA-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/RajBhokare/DSA-Solving/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/RajBhokare/DSA-Solving/tree/master/0905-sort-array-by-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/RajBhokare/DSA-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
@@ -33,6 +35,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajBhokare/DSA-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajBhokare/DSA-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/RajBhokare/DSA-Solving/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -88,4 +91,16 @@
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/RajBhokare/DSA-Solving/tree/master/0905-sort-array-by-parity) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
