@@ -7,6 +7,7 @@
 | [0189-rotate-array](https://github.com/RajBhokare/DSA-Solving/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/RajBhokare/DSA-Solving/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RajBhokare/DSA-Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/RajBhokare/DSA-Solving/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/RajBhokare/DSA-Solving/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/RajBhokare/DSA-Solving/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
@@ -47,6 +48,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/RajBhokare/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/RajBhokare/DSA-Solving/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RajBhokare/DSA-Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/RajBhokare/DSA-Solving/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/RajBhokare/DSA-Solving/tree/master/0504-base-7) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/RajBhokare/DSA-Solving/tree/master/3110-score-of-a-string) |
@@ -72,6 +74,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/RajBhokare/DSA-Solving/tree/master/0415-add-strings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/RajBhokare/DSA-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
