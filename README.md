@@ -13,6 +13,7 @@
 | [0507-perfect-number](https://github.com/RajBhokare/DSA-Solving/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajBhokare/DSA-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajBhokare/DSA-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
 ## Number Theory
