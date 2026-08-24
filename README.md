@@ -12,6 +12,7 @@
 | [0504-base-7](https://github.com/RajBhokare/DSA-Solving/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/RajBhokare/DSA-Solving/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajBhokare/DSA-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajBhokare/DSA-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -31,6 +32,7 @@
 | [0189-rotate-array](https://github.com/RajBhokare/DSA-Solving/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/RajBhokare/DSA-Solving/tree/master/0905-sort-array-by-parity) |
+| [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/RajBhokare/DSA-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
@@ -82,6 +84,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
@@ -121,4 +124,8 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/RajBhokare/DSA-Solving/tree/master/0441-arranging-coins) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
