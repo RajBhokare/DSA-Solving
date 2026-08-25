@@ -36,6 +36,7 @@
 | [0905-sort-array-by-parity](https://github.com/RajBhokare/DSA-Solving/tree/master/0905-sort-array-by-parity) |
 | [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RajBhokare/DSA-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/RajBhokare/DSA-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
@@ -88,6 +89,7 @@
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RajBhokare/DSA-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
