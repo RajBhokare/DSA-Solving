@@ -36,6 +36,7 @@
 | [0905-sort-array-by-parity](https://github.com/RajBhokare/DSA-Solving/tree/master/0905-sort-array-by-parity) |
 | [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2942-find-words-containing-character](https://github.com/RajBhokare/DSA-Solving/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajBhokare/DSA-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3925-concatenate-array-with-reverse](https://github.com/RajBhokare/DSA-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RajBhokare/DSA-Solving/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/RajBhokare/DSA-Solving/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/RajBhokare/DSA-Solving/tree/master/0504-base-7) |
+| [2942-find-words-containing-character](https://github.com/RajBhokare/DSA-Solving/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/RajBhokare/DSA-Solving/tree/master/3110-score-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/RajBhokare/DSA-Solving/tree/master/3794-reverse-string-prefix) |
