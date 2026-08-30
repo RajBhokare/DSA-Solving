@@ -35,6 +35,7 @@
 | [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/RajBhokare/DSA-Solving/tree/master/0905-sort-array-by-parity) |
 | [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/RajBhokare/DSA-Solving/tree/master/2942-find-words-containing-character) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajBhokare/DSA-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -67,6 +68,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/RajBhokare/DSA-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Two Pointers
 |  |
 | ------- |
