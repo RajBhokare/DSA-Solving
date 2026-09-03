@@ -17,6 +17,7 @@
 | [2413-smallest-even-multiple](https://github.com/RajBhokare/DSA-Solving/tree/master/2413-smallest-even-multiple) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajBhokare/DSA-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajBhokare/DSA-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RajBhokare/DSA-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
@@ -41,6 +42,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RajBhokare/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajBhokare/DSA-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RajBhokare/DSA-Solving/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/RajBhokare/DSA-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/RajBhokare/DSA-Solving/tree/master/3925-concatenate-array-with-reverse) |
 ## Dynamic Programming
 |  |
