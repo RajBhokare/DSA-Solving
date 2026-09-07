@@ -28,6 +28,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/RajBhokare/DSA-Solving/tree/master/0031-next-permutation) |
 | [0055-jump-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/RajBhokare/DSA-Solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RajBhokare/DSA-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RajBhokare/DSA-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/RajBhokare/DSA-Solving/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/RajBhokare/DSA-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/RajBhokare/DSA-Solving/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/RajBhokare/DSA-Solving/tree/master/0392-is-subsequence) |
