@@ -17,6 +17,7 @@
 | [2413-smallest-even-multiple](https://github.com/RajBhokare/DSA-Solving/tree/master/2413-smallest-even-multiple) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajBhokare/DSA-Solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RajBhokare/DSA-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/RajBhokare/DSA-Solving/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RajBhokare/DSA-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
 ## Number Theory
