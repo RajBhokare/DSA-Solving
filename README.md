@@ -43,6 +43,7 @@
 | [2221-find-triangular-sum-of-an-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/RajBhokare/DSA-Solving/tree/master/2942-find-words-containing-character) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RajBhokare/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RajBhokare/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajBhokare/DSA-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RajBhokare/DSA-Solving/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RajBhokare/DSA-Solving/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -106,6 +107,7 @@
 | [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/RajBhokare/DSA-Solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/RajBhokare/DSA-Solving/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RajBhokare/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajBhokare/DSA-Solving/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/RajBhokare/DSA-Solving/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/RajBhokare/DSA-Solving/tree/master/3945-digit-frequency-score) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/RajBhokare/DSA-Solving/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/RajBhokare/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/RajBhokare/DSA-Solving/tree/master/3903-smallest-stable-index-i) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/RajBhokare/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
