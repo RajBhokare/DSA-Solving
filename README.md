@@ -11,6 +11,7 @@
 | [0441-arranging-coins](https://github.com/RajBhokare/DSA-Solving/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/RajBhokare/DSA-Solving/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/RajBhokare/DSA-Solving/tree/master/0507-perfect-number) |
+| [0836-rectangle-overlap](https://github.com/RajBhokare/DSA-Solving/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/RajBhokare/DSA-Solving/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/RajBhokare/DSA-Solving/tree/master/1512-number-of-good-pairs) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/RajBhokare/DSA-Solving/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/RajBhokare/DSA-Solving/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RajBhokare/DSA-Solving/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
